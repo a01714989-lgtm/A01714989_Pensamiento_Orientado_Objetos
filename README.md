@@ -28,11 +28,19 @@ Este programa C++ se ejecuta desde la terminal tras compilarlo con g++. Al inici
 
 # Ejecución
 
-Una vez descargado el archivo lo unico que necesitas hacer es abrir tu terminal donde vas a pegar lo sigueinte 
-- g++ main.cpp -o main
+Compilar todos los archivos juntos usando un compilador de C++
 
-En linux:
-- ./main
+- Windows "g++ main.cpp -o main.exe" 
+
+- macOS "g++ main.cpp -o main.o"
+
+Ejecutar el programa resultante:
+
+- Windows "./main.exe" 
+
+- MacOS "./main.o"
+
+- Linux: - ./main
 
 En mac:
 - main.exe
