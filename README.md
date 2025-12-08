@@ -39,8 +39,3 @@ Ejecutar el programa resultante:
 - Windows "./main.exe" 
 
 - MacOS "./main.o"
-
-- Linux: - ./main
-
-En mac:
-- main.exe
